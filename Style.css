@@ -1,0 +1,207 @@
+.logo-img {
+    width: 120px;
+    height: 120px;
+    display: block;
+    margin: 0 auto 5px auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.toolbar {
+        color: #ffffff; /* Text color */
+    background-color: #2882d1; /* Light gray background */
+    padding: 25px; /* Padding for the toolbar */
+    text-align: center; /* Center the content */
+    border-bottom: 2px solid #ccc; /* Bottom border */
+    transition-duration: 0.4s; /* Transition effect */
+    border-radius: 25px; /* Rounded corners */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.main-title {
+    color: #3c70ff; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 40px; /* Font size */
+    margin: 20px; /* Margin around the text */
+    text-align: center; /* Center the text */
+    font-weight: bold; /* Make the text bold */
+    text-transform: uppercase; /* Transform text to uppercase */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.tag-line {
+    color: #009d03; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 28px; /* Font size */
+    margin: 15px; /* Margin around the text */
+    text-align: center; /* Center the text */
+    font-weight: bold; /* Make the text bold */
+    text-transform: uppercase; /* Transform text to uppercase */
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+
+button {
+    background-color: #3c70ff; /* Green */
+    border: 10px solid #ffffff; /* Border with color and width */
+    border-radius: 15px; /* Rounded corners */
+    color: white; /* Text color */
+    padding: 10px 10px; /* Padding for the button */
+    font-size: 14px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition-duration: 0.4s; /* Transition effect */
+    display: block; /* Make the button a block element */
+    margin: 0 auto; /* Center the button horizontally */
+    text-align: center; /* Center the text */
+    background-color: #2a5bbd; /* Darker shade on hover */
+    border-color: #2a5bbd; /* Darker border on hover */
+}
+.button:hover {
+    background-color: #ffffff; /* Darker shade on hover */
+    border-color: #000000; /* Darker border on hover */
+}
+
+ 
+.main-title_1 {
+    color: #3c70ff; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 40px; /* Font size */
+    margin: 20px; /* Margin around the text */
+    text-align: center; /* Center the text */
+    font-weight: bold; /* Make the text bold */
+    text-transform: uppercase; /* Transform text to uppercase */
+   
+}
+.about-description {
+    color: #000000; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: px; /* Font size */
+    margin: 2px; /* Margin around the text */
+    text-align: left; /* Center the text */
+    font-weight: regular; /* Make the text bold */
+
+}
+
+.about-description_1 {
+    color: #000000; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 16px; /* Font size */
+    margin: 2px; /* Margin around the text */
+    text-align: left; /* Center the text */
+    font-weight: bold; /* Make the text bold */
+}
+
+.about-description_2 {
+    color: #000000; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 16px; /* Font size */
+    margin: 2px; /* Margin around the text */
+    text-align: left; /* Center the text */
+    font-weight: regular; /* Make the text bold */
+}
+
+.about-description_3 {
+    color: #000000; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 16px; /* Font size */
+    margin: 2px; /* Margin around the text */
+    text-align: left; /* Center the text */
+    font-weight: bold; /* Make the text bold */
+}
+
+.about-description_4 {
+    color: #000000; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 16px; /* Font size */
+    margin: 2px; /* Margin around the text */
+    text-align: left; /* Center the text */
+    font-weight: regular; /* Make the text bold */
+}
+
+.turf-mahalaxmi {
+    color: #3c70ff; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 26px; /* Font size */
+    margin: 50px; /* Margin around the text */
+    font-weight: bold; /* Make the text bold */
+    text-transform: uppercase; /* Transform text to uppercase */
+}
+
+.img_mahalaxmi {
+    width: 300px; /* Increased width of the image */
+    height: 300px; /* Increased height of the image */
+    float: left; /* Align the image to the left */
+    margin-right: 20px; /* Add space to the right of the image */
+    display: block; /* Make the image a block element */
+    margin: 30px; /* Center the image horizontally */
+    border-radius: 3px; /* Add a 3px border radius for rounded corners */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+    position: relative; /* Enable shifting */
+    top: -50px; /* Shift the image down by 10px (use negative value to shift up) */
+}
+
+.turf-mahalaxmi-description {
+    color: #000000; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 26px; /* Font size */
+    margin: 4px; /* Margin around the text */
+    text-align: left; /* Center the text */
+    font-weight: regular; /* Make the text bold */
+    position: relative; /* Enable shifting */
+    top: 40px; /* Shift the text down by 10px (use negative value to shift up) */
+    padding: 20px; /* Add padding for better spacing */
+    outline: height 45px; ; /* Increase line height for better readability */
+    max-width: 900px; /* Limit the number of words per line by restricting width */
+    word-break: break-word; /* Break long words if needed */
+}
+
+.book-mahalaxmi {
+    background-color: #3c70ff; /* Green */
+    border: 10px solid #ffffff; /* Border with color and width */
+    border-radius: 15px; /* Rounded corners */
+    color: white; /* Text color */
+    padding: 10px 10px; /* Padding for the button */
+    font-size: 14px; /* Font size */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition-duration: 0.4s; /* Transition effect */
+    display: block; /* Make the button a block element */
+    margin: 15px; /* Center the button horizontally */
+}
+    .book-mahalaxmi:hover {
+    background-color: #2a5bbd;
+    border-color: #2a5bbd;
+}
+
+.bookMahalaxmiturf{
+    background-color: #ffffff; /* Green */
+    border: 10px solid #ffffff; /* Border with color and width */
+    border-radius: 15px; /* Rounded corners */
+    color: rgb(0, 98, 255); /* Text color */
+    padding: 10px 10px; /* Padding for the button */
+    font-size: 24px; /* Font size */
+    text-align: center; /* Center the text */
+}
+
+.tag-line{
+    color: #009d03; /* Text color */
+    font-family: Arial, sans-serif; /* Font family */
+    font-size: 18px; /* Font size */
+    margin: 15px; /* Margin around the text */
+    text-align: center; /* Center the text */
+    font-weight: bold; /* Make the text bold */
+    text-transform: uppercase; /* Transform text to uppercase */
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.img_mahalaxmi{
+    width: 500px; /* Increased width of the image */
+    height: 500px; /* Increased height of the image */
+    float: center; /* Align the image to the left */
+    margin-right: 1000px; /* Add space to the right of the image */
+    display: block; /* Make the image a block element */
+    margin: 75px; /* Center the image horizontally */
+    border-radius: 50px; /* Add a 3px border radius for rounded corners */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+    position: relative; /* Enable shifting */
+    top: -50px; /* Shift the image down by 10px (use negative value to shift up) */
+}
